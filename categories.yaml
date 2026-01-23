@@ -1,0 +1,69 @@
+categories:
+  - name: "🍜 餐饮"
+    subcategories:
+      - name: "🥡 外食外卖"
+      - name: "🥤 零食饮品"
+      - name: "🥬 食材采购"
+  - name: "🧭 交通"
+    subcategories:
+      - name: "🚇 公交地铁"
+      - name: "🚕 打车出行"
+      - name: "🚆 火车出行"
+      - name: "✈️ 飞机出行"
+      - name: "🚨 违章罚款"
+      - name: "⛽ 充电加油"
+      - name: "🚗 车辆购置"
+      - name: "🛡️ 车险保费"
+  - name: "🏠 住房"
+    subcategories:
+      - name: "🧾 房屋租金"
+      - name: "🏦 房屋贷款"
+      - name: "💡 水电燃气"
+      - name: "🛠️ 物业管理"
+      - name: "🔧 维修保养"
+  - name: "🗓️ 日常"
+    subcategories:
+      - name: "🧴 清洁个护"
+      - name: "🪑 家居购置"
+      - name: "🎧 数码配件"
+      - name: "🗂️ 低频杂项"
+  - name: "🩺 医疗"
+    subcategories:
+      - name: "🏥 门诊就医"
+      - name: "🛌 住院治疗"
+      - name: "🧪 健康体检"
+      - name: "🛡️ 商业保险"
+      - name: "💊 药品耗材"
+  - name: "🍷 烟酒"
+    subcategories:
+      - name: "🚬 香烟消费"
+      - name: "🥃 酒类消费"
+  - name: "👗 服饰"
+    subcategories:
+      - name: "👞 衣鞋箱包"
+      - name: "🧢 服饰配件"
+  - name: "📱 通讯"
+    subcategories:
+      - name: "📶 话费流量"
+      - name: "🧩 数码订阅"
+      - name: "🛜 宽带网络"
+  - name: "🎭 娱乐"
+    subcategories:
+      - name: "🎬 影视演出"
+      - name: "🎮 游戏娱乐"
+      - name: "🏋️ 运动健身"
+      - name: "♨️ 休闲养生"
+  - name: "🎁 人情"
+    subcategories:
+      - name: "💌 礼金礼物"
+      - name: "🍽️ 请客聚餐"
+  - name: "🐾 宠物"
+    subcategories:
+      - name: "🐟 猫粮猫砂"
+      - name: "🪀 猫咪用品"
+      - name: "🧼 猫咪洗护"
+      - name: "🩹 猫咪医疗"
+  - name: "📚 学习"
+    subcategories:
+      - name: "📘 课程书籍"
+      - name: "🎓 考试证书"
