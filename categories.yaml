@@ -14,6 +14,7 @@ categories:
       - name: "⛽ 充电加油"
       - name: "🚗 车辆购置"
       - name: "🛡️ 车险保费"
+      - name: "🛣️ 路桥通行"
   - name: "🏠 住房"
     subcategories:
       - name: "🧾 房屋租金"
